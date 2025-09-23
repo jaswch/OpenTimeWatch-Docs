@@ -2,7 +2,7 @@
 1. LILYGO TQT Pro
 2. USB-C cable
 3. 3mm LED (White colour)
-4. Small speaker
+4. Small speaker (earpiece speaker from Redmi 1s)
 5. MPU6050 accelerometer
 6. Stemma qt connector
 7. A computer with PlatformIO installed
